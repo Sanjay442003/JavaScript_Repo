@@ -7,12 +7,10 @@ for (var i = 0; i < len; i++) {
 }
 document.getElementById("data").innerHTML = Text;
 
-var age = 18;
-var text = "";
 
-if (age >= 18) {
-    text = "";
-}
+
+
+
 function eligeblity() {
     var age = document.getElementById("age").value;
     var text = "";
